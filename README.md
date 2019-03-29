@@ -1,8 +1,7 @@
 Turtl Note Client
 ===============================
-[![Build Status](https://drone.github.dietzi.mywire.org/api/badges/toschoch/python-turtlpy/status.svg)](https://drone.github.dietzi.mywire.org/toschoch/python-turtlpy)
 
-author: Tobias Schoch
+author: Christopher Geyer
 
 
 Overview
@@ -38,12 +37,12 @@ The turtl core-rs library is only available for gnu compilers (gcc)
 
 To install use pip:
 
-    pip install https://github.com/toschoch/python-turtlpy.git
+    pip install https://github.com/chrisgeyer1215/python-turtlpy.git
 
 
 Or clone the repo:
 
-    git clone https://github.com/toschoch/python-turtlpy.git
+    git clone https://github.com/chrisgeyer1215/python-turtlpy.git
     python setup.py install
 
 
